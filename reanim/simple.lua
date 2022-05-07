@@ -178,6 +178,6 @@ sound:Play()
 wait(1)
 sound:Destroy()
 end)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/stev15291/catv2/main/misc/anims.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfinityNess/catv2archive/main/misc/anims.lua"))()
 
 
